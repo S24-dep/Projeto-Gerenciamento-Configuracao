@@ -1,0 +1,5 @@
+Sistema de Monitoramento Agrícola
+Funcionalidades:
+- Cadastro de sensores
+- Monitoramento de temperatura
+- Visualização de dados da plantação
