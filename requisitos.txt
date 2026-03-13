@@ -3,3 +3,4 @@ Funcionalidades:
 - Cadastro de sensores
 - Monitoramento de temperatura
 - Visualização de dados da plantação
+- Geração de relatórios
